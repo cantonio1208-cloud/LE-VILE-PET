@@ -1,0 +1,6 @@
+{
+  "name": "Le Ville Pet Gestão",
+  "description": "Sistema profissional de gestão para pet shop com controle de clientes, pets, agendamentos, hotelzinho, transporte e financeiro.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
